@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "VVDqfSc3vgZreOfNMpPpB0eiNWt7BqhLMZVx7j7KCOo=",
+  "Source": "net-scheduler",
+  "BasePath": "_content/net-scheduler",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
